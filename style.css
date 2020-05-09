@@ -19,6 +19,15 @@ p {
   color: white;
 }
 
+.i1 {
+background-color: #A52A2A;
+}
+.i2 {
+background-color: #DEB887;
+}
+.i3 {
+background-color: #5F9EA0;
+}
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
