@@ -17,13 +17,19 @@ p {
   position: absolute;
 }
 #box1 {
- background-color: red;
+ background-color: yellow;
+ width: 100%;
+ border: 1px solid black;
 }
 #box2 {
- background-color: green;
+ background-color: yellow;
+ width: 100%;
+ border: 1px solid black;
 }
 #box3 {
  background-color: yellow;
+ width: 100%;
+ border: 1px solid black;
 }
 
 /* Simple Responsive Framework. */
