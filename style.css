@@ -17,7 +17,15 @@ p {
   color: white;
   text-align: right;
 }
-
+#item1 {
+  background-color: #A52A2A;
+}
+#item2 {
+  background-color: #DEB887;
+}
+#item3 {
+  background-color: #5F9EA0;
+}
 
 
 /* Simple Responsive Framework. */
