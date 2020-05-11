@@ -15,11 +15,10 @@ p {
   margin-left: auto;
   font-family: Helvetica;
   color: white;
+  text-align: top right;
 }
 
-div {
-text-align: top right;
-}
+
 
 /* Simple Responsive Framework. */
 .row {
