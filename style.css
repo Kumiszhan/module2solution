@@ -14,11 +14,8 @@ p {
   margin-left: auto;
   font-family: Helvetica;
   color: white;
-  overflow-wrap: break-all;
-  word-wrap: break-all;
   hyphens: auto;
-  line-break: auto;
-}
+  }
 #item1 {
   background-color: #A52A2A;
   text-align: right;
