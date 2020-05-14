@@ -20,19 +20,21 @@ width: 100px;
 
 #item2 h2 {
 background-color: #8A2BE2;
-  width: 100px;
+width: 200px;
+padding: auto;
 }
 
 #item3 h2 {
 background-color: #7B68EE;
+width: 120px;
+padding: 10px;
 }
 
 div {
   border: 1px solid black;
-  width: 100%;
-  height: 150px;
-  margin-right: auto;
-  margin-left: auto;
+  width: 90%;
+  height: 160px;
+  margin: 10px;
   font-family: Helvetica;
   color: white;
   hyphens: auto;
@@ -43,21 +45,19 @@ div {
   background-color: #C71585;
   text-align: center;
   padding: 10px;
-  margin: 10px;
-}
+  }
 
 #item2 {
   background-color: #4B0082;
   text-align: center;
   padding: 10px;
-  margin: 10px;
-}
+  }
 
 #item3 {
   background-color: #483D8B;
   text-align: center;
   padding: 10px;
-  margin: 10px;
+  
 }
 
 
