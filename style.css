@@ -30,7 +30,8 @@ background-color: #7B68EE;
 
 div {
   border: 1px solid black;
-    height: 160px;
+  height: 160px;
+  width: 350px;
   margin-right: auto;
   margin-left: auto;
   font-family: Helvetica;
