@@ -33,7 +33,7 @@ background-color: #7B68EE;
 div {
   border: 1px solid black;
   height: 160px;
-  width: 80%;
+  width: 100%;
   margin-right: auto;
   margin-left: auto;
   font-family: Helvetica;
@@ -46,25 +46,19 @@ div {
   background-color: #C71585;
   text-align: center;
   padding: auto;
-  margin-right: 5px;
-  margin-left: 5px;
    }
 
 #item2 {
   background-color: #4B0082;
   text-align: center;
   padding: auto;
-  margin-right: 5px;
-  margin-left: 5px;
-  }
+   }
 
 #item3 {
   background-color: #483D8B;
   text-align: center;
   padding: auto;
-  margin-right: 5px;
-  margin-left: 5px;
-}
+ }
 
 
 /* Simple Responsive Framework. */
