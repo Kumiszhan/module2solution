@@ -4,11 +4,12 @@
 }
 h1 {
   margin-bottom: 15px;
-  font-size: 75%
+  font-size: 1.75em;
 }
 h2 {
-text-align: center;
-font-size: 25%;
+text-align: right;
+font-size: 1.25em;
+border: 1px solid black;
 }
 div {
   border: 1px solid black;
@@ -21,6 +22,7 @@ div {
   hyphens: auto;
   font-size: 14px;
   }
+
 #item1 {
   background-color: #A52A2A;
   text-align: center;
@@ -90,6 +92,9 @@ div {
 @media (min-width: 768px) and (max-width: 991px) {
   .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
     float: left;
+    #item2 {
+    width: 100%;
+    }
         }
   .col-md-1 {
     width: 8.33%;
