@@ -37,7 +37,8 @@ div {
   border: 1px solid black;
   width: 90%;
   height: 160px;
-  margin: auto;
+  margin-right: auto;
+  margin-left: auto;
   font-family: Helvetica;
   color: white;
   hyphens: auto;
