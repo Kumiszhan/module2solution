@@ -16,25 +16,26 @@ border: 1px solid white;
 #item1 h2 {
 background-color: #FFC0CB;
 width: 100px;
+padding: auto;
 }
 
 #item2 h2 {
 background-color: #8A2BE2;
-width: 200px;
+width: 250px;
 padding: auto;
 }
 
 #item3 h2 {
 background-color: #7B68EE;
-width: 120px;
-padding: 10px;
+width: 160px;
+padding: auto;
 }
 
 div {
   border: 1px solid black;
   width: 90%;
   height: 160px;
-  margin: 10px;
+  margin: auto;
   font-family: Helvetica;
   color: white;
   hyphens: auto;
@@ -44,19 +45,19 @@ div {
 #item1 {
   background-color: #C71585;
   text-align: center;
-  padding: 10px;
+  padding: auto;
   }
 
 #item2 {
   background-color: #4B0082;
   text-align: center;
-  padding: 10px;
+  padding: auto;
   }
 
 #item3 {
   background-color: #483D8B;
   text-align: center;
-  padding: 10px;
+  padding: auto;
   
 }
 
