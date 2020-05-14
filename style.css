@@ -23,7 +23,7 @@ section {
 	background-color: gray;
 	width: 100%;
 	height: 200px;
-  position: relative;
+        position: relative;
 	overflow: auto;
 }
 
@@ -33,6 +33,8 @@ section {
   padding: auto;
   border: 1px solid black;
   font-size: 1.25em;
+  width: 30%;
+  margin-left: 60%
    }
 
 #item2 {
@@ -41,6 +43,8 @@ section {
   padding: auto;
   border: 1px solid black;
   font-size: 1.25em;
+  width: 30%;
+  margin-left: 60%
    }
 
 #item3 {
@@ -49,6 +53,8 @@ section {
   padding: auto;
   border: 1px solid black;
   font-size: 1.25em;
+  width: 30%;
+  margin-left: 60%;
     }
 
 
