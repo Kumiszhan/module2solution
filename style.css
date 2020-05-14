@@ -10,19 +10,21 @@ h1 {
 h2 {
 text-align: right;
 font-size: 1.25em;
-border: 1px solid black;
+border: 1px solid white;
 }
 
 #item1 h2 {
-background-color: #FFD700;
+background-color: #FFC0CB;
+width: 100px;
 }
 
 #item2 h2 {
-background-color: #FFA500;
+background-color: #8A2BE2;
+  width: 100px;
 }
 
 #item3 h2 {
-background-color: #FF00FF;
+background-color: #7B68EE;
 }
 
 div {
@@ -38,21 +40,24 @@ div {
   }
 
 #item1 {
-  background-color: #A52A2A;
+  background-color: #C71585;
   text-align: center;
   padding: 10px;
+  margin: 10px;
 }
 
 #item2 {
-  background-color: #DEB887;
+  background-color: #4B0082;
   text-align: center;
   padding: 10px;
+  margin: 10px;
 }
 
 #item3 {
-  background-color: #5F9EA0;
+  background-color: #483D8B;
   text-align: center;
   padding: 10px;
+  margin: 10px;
 }
 
 
