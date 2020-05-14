@@ -44,19 +44,24 @@ div {
   background-color: #C71585;
   text-align: center;
   padding: auto;
+  margin-right: auto;
+  margin-left: auto;
   }
 
 #item2 {
   background-color: #4B0082;
   text-align: center;
   padding: auto;
+  margin-right: auto;
+  margin-left: auto;
   }
 
 #item3 {
   background-color: #483D8B;
   text-align: center;
   padding: auto;
-  
+  margin-right: auto;
+  margin-left: auto;
 }
 
 
