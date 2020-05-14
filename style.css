@@ -12,25 +12,20 @@ text-align: right;
 font-size: 1.25em;
 border: 1px solid white;
 width: 250px;
+padding-right: auto;
+padding-left: auto;
 }
 
 #item1 h2 {
 background-color: #FFC0CB;
-width: 10px;
-padding-right: auto;
-padding-left: auto;
 }
 
 #item2 h2 {
 background-color: #8A2BE2;
-padding-right: auto;
-padding-left: auto;
 }
 
 #item3 h2 {
 background-color: #7B68EE;
-padding-right: auto;
-padding-left: auto;
 }
 
 div {
